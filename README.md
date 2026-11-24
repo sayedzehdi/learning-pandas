@@ -42,7 +42,7 @@ MultiIndex · time series · window functions · categoricals and memory · meth
 
 **Locally:**
 ```bash
-git clone https://github.com/<your-username>/learning-pandas.git
+git clone https://github.com/sayedzehdi/learning-pandas.git
 cd learning-pandas
 pip install -r requirements.txt
 jupyter lab
